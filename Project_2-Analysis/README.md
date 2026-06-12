@@ -1,4 +1,3 @@
-
 # Project 2 Analysis
 
 ## Introduction
@@ -26,7 +25,7 @@ The following Excel skills were utilized for analysis:
 
 ### Data Jobs Dataset
 
-The dataset used for this project contains real-world data science job information from 2023. The dataset is available via my Excel course, which provides a foundation for analyzing data using Excel. 
+The dataset used for this project contains real-world data science job information from 2023. The dataset is available via Luke Barrouse's Excel course, which provides a foundation for analyzing data using Excel. 
 
 It includes detailed information on:
 
@@ -176,6 +175,6 @@ It includes detailed information on:
 
 ## Conclusion
 
-As a data enthusiast and former job seeker, I embarked on this Excel-based project to uncover valuable insights about the data science job market. Using a dataset I've curated from real-world job postings, I analyzed job titles, salaries, locations, and essential skills. By leveraging Excel features like Power Query, PivotTables, DAX, and charts, I discovered key correlations between multiple skills and higher salaries, particularly in Python, SQL, and cloud technologies. 
+As a data enthusiast and job seeker, I embarked on this Excel-based project to uncover valuable insights about the data science job market. Using a dataset I've curated from real-world job postings, I analyzed job titles, salaries, locations, and essential skills. By leveraging Excel features like Power Query, PivotTables, DAX, and charts, I discovered key correlations between multiple skills and higher salaries, particularly in Python, SQL, and cloud technologies. 
 
 I hope this project serves as a practical guide for data professionals and provides an overview of the skills needed for higher-paying roles.
